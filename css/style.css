@@ -2,7 +2,7 @@
 
 
 body {
-    background-image: url('/fotos/fondo.jpg');
+    background-image: url(/fotos/fondo.jpg);
     
 }
 #content h1{
